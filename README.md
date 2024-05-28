@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phuongnam201
 - 👀 I’m interested in playing game
-- 🌱 I’m currently learning nodejs and reactjs
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on 
 - 📫 Contact: nguyenphuongnamictu201@gmail.com
 
